@@ -4,6 +4,8 @@ PDG extends the previous work "Diversity Probe" (ACM MM2023) by incorporating th
 
 Paper Link: https://dl.acm.org/doi/abs/10.1145/3581783.3612375
 
+This paper appears in: IEEE Transactions on Multimedia
+
 ## Environment
 
 - python=3.9.16
